@@ -1,4 +1,4 @@
-# creativecommons.org
+# creativecommons.org An Amazing Project
 
 Website parent project ([When we share, everyone wins - Creative
 Commons][ccorg]), legalcode and translations, and GitHub Issues for public
